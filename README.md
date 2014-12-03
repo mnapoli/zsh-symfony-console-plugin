@@ -12,8 +12,10 @@ Clone the repository in `.oh-my-zsh/custom/plugins` (this is a gitignored direct
 
 ```
 cd ~/.oh-my-zsh/custom/plugins
-git clone https://github.com/mnapoli/zsh-symfony-console-plugin.git
+git clone https://github.com/mnapoli/zsh-symfony-console-plugin.git symfony-console
 ```
+
+(watch out, the directory must be named `symfony-console`)
 
 Edit `~/.zshrc` to enable the plugin:
 
